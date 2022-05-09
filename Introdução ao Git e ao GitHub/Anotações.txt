@@ -1,0 +1,28 @@
+Git e GitHub não são a mesma coisa.
+
+Git é uma ferramenta muito utilizada para versionamento e 
+
+O GitBash é um terminal de comandos, para auxílio ao uso do Git.
+
+Link para download: https://git-scm.com/download/win
+
+
+
+Markdown (extensão .md) é uma linguagem de marcação para adicionar formatação à textos simples.
+
+Editor de Md, Typora (pago, 15 dias trial), link do site: https://typora.io/
+
+
+Principais comandos Git
+
+- git add: adiciona arquivo ao index
+
+- git commit: grava as mudanças ao repositório local
+
+- git init: cria um repositório vazio e inicia nele
+
+- git push: envia um repositório ao GitHub
+
+- git pull: incorpora o repositório remoto ao local
+ 
+- git status: informa o status da tree em uso
